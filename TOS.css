@@ -1,0 +1,41 @@
+.u-section-1 {
+  background-image: url("images/AIoYLw.jpg");
+  background-position: 50% 50%;
+  min-height: 2909px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 2909px;
+  background-image: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  animation-duration: 1500ms;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 2399px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 1838px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 1379px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 868px;
+  }
+}
